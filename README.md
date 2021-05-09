@@ -1,4 +1,4 @@
-# Instrument recognition by audio feature extraction and transformation using Virtual SVMs
+# Instrument recognition by audio feature extraction and transformation using Virtual Audio SVMs
 
 In this project, we propose an implementation of the following paper by Lardeur et al.: *Incorporating prior knowledge on the digital media creation process into audio classifiers* (https://perso.telecom-paristech.fr/essid/papers/ML_ICASSP-09.pdf).
 
