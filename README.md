@@ -4,7 +4,7 @@ In this project, we propose an implementation of the following paper by Lardeur 
 
 ## Data
 
-We worked on the famous IRMAS Dataset. The extracted features from the IRMAS data is available in the file `dta.csv`.
+We worked on the famous IRMAS Dataset (https://zenodo.org/record/1290750#.YJBIHi0itbV). The extracted features are available in the file `data.csv`.
 ## Notebook 
 
 The notebook might not display correctly because the file is too large. You can use Jupyter nbviewer : https://nbviewer.jupyter.org.
